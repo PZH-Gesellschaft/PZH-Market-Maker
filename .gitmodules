@@ -1,0 +1,6 @@
+[submodule "subprojects/libwebsockets"]
+	path = subprojects/libwebsockets
+	url = https://libwebsockets.org/repo/libwebsockets
+[submodule "subprojects/yyjson"]
+	path = subprojects/yyjson
+	url = https://github.com/ibireme/yyjson.git
