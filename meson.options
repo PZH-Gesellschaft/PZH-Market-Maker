@@ -1,0 +1,22 @@
+###############################
+### Autor: Reymon Dev       ###
+### Datum: 15. August. 2026 ###
+### Aktua: 15. August. 2026 ###
+### Lizenz: AGPL-3-or-later ###
+###############################
+
+#######################
+### Build Libraries ###
+#######################
+
+option(
+	'build_kraken',
+	type: 'boolean',
+	value: true
+)
+
+option(
+	'build_binance',
+	type: 'boolean',
+	value: true
+)
